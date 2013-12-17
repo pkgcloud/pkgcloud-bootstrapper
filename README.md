@@ -13,6 +13,7 @@ var client = pkgcloud.compute.createClient({
 
 var bootstrapper = new Bootstrapper({ compute: client });
 var ee = bootstrapper.createServer({
+  name: 'mad_torvald',
   image: 'ubuntu-13.10',
   flavor: '512mb'
 });
