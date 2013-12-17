@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/mmalecki/pkgcloud-bootstrapper.git"
+  },
+  "peerDependencies": {
+    "pkgcloud": "*"
   }
 }
