@@ -1,5 +1,5 @@
 # pkgcloud-bootstrapper
-`pkgcloud.core.Bootstrapper` extracted into its own module.
+`pkgcloud.compute.Bootstrapper` extracted into its own module.
 
 ## Usage
 
