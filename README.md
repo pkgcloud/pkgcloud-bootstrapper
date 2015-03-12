@@ -1,5 +1,6 @@
 # pkgcloud-bootstrapper
-`pkgcloud.compute.Bootstrapper` extracted into its own module.
+
+`pkgcloud.compute.Bootstrapper` extracted into its own module. Originally found in [pkgcloud core](https://github.com/pkgcloud/pkgcloud/blob/v0.8.17/lib/pkgcloud/core/compute/bootstrapper.js) in `pkgcloud@<=0.8.17`
 
 ## Usage
 
